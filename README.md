@@ -1,2 +1,2 @@
-# HTML-JSS
+# HTML-JavaScript
 general programs
